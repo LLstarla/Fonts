@@ -1,5 +1,7 @@
 	/*font-family: 'Lobster' , sans-serif;*/
-
+p {
+	font-size: 24px;
+}
 
 #one { font-family: 'Questrial', sans-serif; }
 

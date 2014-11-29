@@ -1,6 +1,22 @@
 	/*font-family: 'Lobster' , sans-serif;*/
+body {
+	/*background: url("img/diagmonds.png");*/
+	/*background: url("img/mirrored-squares.png");*/
+	/*background: url("img/mooning.png");*/
+	/*background: url("img/shattered-dark.png");*/
+	/*background: url("img/shley-tree-2.png");*/
+	background: url("img/soft-kill.png");
+}
+
+html {
+	background-color: #38293D;
+}
+
+
+
 p {
-	font-size: 24px;
+	font-size: 28px;
+	margin: 10px;
 }
 
 #one { font-family: 'Questrial', sans-serif; }
@@ -32,3 +48,12 @@ p {
 #fourteen { font-family: 'Quattrocento Sans', sans-serif; }
 
 #fifteen { font-family: 'Lobster' , sans-serif; }
+
+#sixteen { font-family: 'Raleway', sans-serif; }
+
+#seventeen { font-family: 'Allura', cursive; }
+
+#eighteen { font-family: 'Quicksand', sans-serif; }
+
+#nineteen { font-family: 'Inder', sans-serif; }
+
